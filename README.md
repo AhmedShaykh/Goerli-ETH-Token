@@ -1,1 +1,1 @@
-# Goerli ETH Token (ERC 20)!
+# Goerli ETH (ERC 20 Token)!
